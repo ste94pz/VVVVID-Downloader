@@ -14,8 +14,8 @@ Durante lo sviluppo si è scelto di adottare queste convenzioni poiché sono ris
 ### Release (Windows)
 Scaricate [l'ultima release](https://github.com/CoffeeStraw/VVVVID-Downloader/releases). Vi ritroverete con un *.zip*, che dovrete scompattare. Per avviare il programma basterà quindi lanciare "VVVVID Downloader.bat".
 
-### Docker
-Per installare ed utilizzare il software tramite **Docker**, basterà lanciare il file ```vvvvvid-downloader.sh```. Esso si occuperà di lanciare il container e monterà la cartella dei *Downloads* come volume esterno.
+### Linux
+Per utilizzare il software basterà lanciare il file ```vvvvvid-downloader.sh```.
 
 ## 🎮 Utilizzo
 Per poter utilizzare VVVVID Downloader, tutto quello che dovrete fare è porre il link a ciò che desiderate scaricare da VVVVID all'interno del file **downloads_list.txt**, che contiene già degli esempi.
